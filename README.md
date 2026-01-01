@@ -1,2 +1,5 @@
-# mosh-support
-Support information for the MOSH app
+# MOSH App Support
+
+For support or questions, please contact:
+
+sufiyanshariff777@gmail.com
